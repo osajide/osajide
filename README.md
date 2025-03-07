@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/osajide" alt="osajide's 42 stats" /></a>
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/osajide)](https://github.com/oakoudad/badge42)
+[![<osajide>'s 42 stats](https://badge.mediaplus.ma/darkblue/osajide)](https://github.com/oakoudad/badge42)
